@@ -21,7 +21,7 @@ This tool automatically organizes files into folders based on file type.
 ```bash
 
 python main.py
-
+```
 ## How It Works
 1. The user provides a folder path.
 2. The program reads all files in that folder.
