@@ -22,3 +22,10 @@ This tool automatically organizes files into folders based on file type.
 
 python main.py
 
+## How It Works
+1. The user provides a folder path.
+2. The program reads all files in that folder.
+3. It identifies the file type using the extension.
+4. It creates folders for each category (if not already present).
+5. It moves files into their respective folders.
+6. Unrecognized files are moved to an "Others" folder.
