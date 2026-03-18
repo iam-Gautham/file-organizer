@@ -1,5 +1,4 @@
-FilePilot
-File Organizer CLI Tool
+Fileamass – File Organizer CLI Tool
 
 
 
