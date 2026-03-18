@@ -34,7 +34,7 @@ for file in files:
                 moved = True
                 break
 
-        # If no match → Others
+        # If no match then Others
         if not moved:
             other_path = os.path.join(path, "Others")
             if not os.path.exists(other_path):
@@ -42,4 +42,4 @@ for file in files:
 
             shutil.move(file_path, os.path.join(other_path, file))
 
-print("✅ Files organized successfully!")
+print(" Files organized successfully!")
