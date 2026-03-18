@@ -1,2 +1,24 @@
-# file-organizer
-The File Organizer is a python based CLI tool that automates file management by organizing files into categorized folders based on their type. It will significantly improve productivity by reducing manual effort and keeping directories structured and clutter free.
+File Organizer CLI Tool
+
+
+
+Description
+
+This tool automatically organizes files into folders based on file type.
+
+
+
+&#x20;Features
+
+* Organizes images, documents, videos, etc.
+* &#x20;Creates folders automatically
+* Simple CLI usage
+
+
+
+&#x20;How to Run
+
+```bash
+
+python main.py
+
